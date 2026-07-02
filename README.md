@@ -18,10 +18,10 @@
 
 ## ⚙️ FAQs
 **Q: Is GHOST free?**
-A: Yes, GHOST is available for free.[citation:2]
+A: Yes, GHOST is available for free.
 
 **Q: How often are updates released?**
-A: We strive to provide updates regularly, typically every month.[citation:2]
+A: We strive to provide updates regularly, typically every month.
 
 ## 📜 MIT License
 This repository is licensed under the MIT License.
